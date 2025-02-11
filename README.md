@@ -26,6 +26,7 @@ If you are interested in discussing these topics, feel free to contact me 😊.
 - [Google Scholar](https://scholar.google.de/citations?user=S-N6MacAAAAJ&hl=en)
 
 👨‍💻 **Research Associate at L3S Research Center, Hannover, Germany**  
+
 🎓 **Master’s in Intelligent Systems**  
 
 
