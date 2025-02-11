@@ -2,16 +2,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There+!..+🤖;++;Machine+Learning+Engineer,;Computer+Science+Graduate,;Researcher."></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Researcher+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Machine+Learning+Engineer+%F0%9F%A6%BE;Computer+Science+Graduate+%F0%9F%8E%93" >
 </p>
 
-
-I am pursuing my PhD at the L3S Research Center in Germany. As a scientific researcher, I enjoy using my skills to contribute to the exciting technological advances happening every day in the field of artificial intelligence. I graduated from Bielefeld University in 2022 with a Master’s degree in Intelligent Systems.
+<p> I am pursuing my PhD at the L3S Research Center in Germany. As a scientific researcher, I enjoy using my skills to contribute to the exciting technological advances happening every day in the field of artificial intelligence. I graduated from Bielefeld University in 2022 with a Master’s degree in Intelligent Systems.
 
 My research interests include artificial intelligence, tactile sensing for robots, machine learning, reinforcement learning, robotics, and computer vision.
 
 If you are interested in discussing these topics, feel free to contact me 😊.
+</p>
 
+-----
 
 ### 🔎 What I’m working on:  
 - **Tactile sensing for robots** & **transfer learning**  
@@ -27,6 +28,8 @@ If you are interested in discussing these topics, feel free to contact me 😊.
 👨‍💻 **Research Associate at L3S Research Center, Hannover, Germany**  
 🎓 **Master’s in Intelligent Systems**  
 
+
+-----
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
