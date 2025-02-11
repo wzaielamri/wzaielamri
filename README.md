@@ -37,7 +37,7 @@ If you are interested in discussing these topics, feel free to contact me 😊.
 <table border="0">
   <tr>
     <td style="vertical-align: top;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=wzaielamri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wadhah's github stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=wzaielamri&show_icons=true&theme=buefy&hide_border=true" alt="Wadhah's github stats" />
     </td>
     <td style="vertical-align: top;">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzaielamri&layout=compact&theme=buefy&hide_border=true" />
