@@ -37,7 +37,7 @@ If you are interested in discussing these topics, feel free to contact me 😊.
 <table border="0">
   <tr>
     <td style="vertical-align: top;">
-      <img align="center" src="https://ghstats.dev/api/card?username=wzaielamri" />
+      <img align="center" src="https://ghstats.dev/api/card?username=wzaielamri&theme=light" />
     </td>
   </tr>
 </table>
